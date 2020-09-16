@@ -15,7 +15,7 @@ on:
      
 env:
   ROM_URL: https://bigota.d.miui.com/V11.0.2.0.PEICNXM/miui_HMNote5_V11.0.2.0.PEICNXM_918af93cae_9.0.zip
-  ROM_NAME: MIUI 
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai 
 
 jobs:

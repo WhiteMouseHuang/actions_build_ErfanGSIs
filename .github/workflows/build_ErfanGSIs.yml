@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL1: https://download.meizu.com/Firmware/Flyme/16s_Pro/8.20.9.8/cn_daily/20200908165252/01601943/update.zip
-  ROM_NAME: Flyme
+  ROM_URL1: https://bigota.d.miui.com/V11.0.6.0.PDICNXM/miui_HM6Pro_V11.0.6.0.PDICNXM_56ec501e98_9.0.zip 
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
